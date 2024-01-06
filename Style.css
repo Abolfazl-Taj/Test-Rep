@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+Body{
+    background-color:  #111;
+}
+h1{
+    color: #c2c2c2;
+}
