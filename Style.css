@@ -10,3 +10,7 @@ h1{
     color: #c2c2c2;
     font-size: 30px;
 }
+div{
+    padding: 10px;
+    maring: 0 auto
+}
